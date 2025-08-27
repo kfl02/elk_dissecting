@@ -1,2 +1,2 @@
-# Dissecting the Elk Pi Board
+# Dissecting the Elk Pi and Black Board
 
